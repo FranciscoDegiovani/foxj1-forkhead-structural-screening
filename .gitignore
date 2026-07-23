@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+# Saidas brutas de docking em lote (milhares de arquivos pequenos) -
+# mantemos so o resumo (docking_results.csv), nao os PDBQT/log individuais
+data/processed/docking_out/*.pdbqt
+data/processed/docking_out/*.txt
+
+vina.exe
