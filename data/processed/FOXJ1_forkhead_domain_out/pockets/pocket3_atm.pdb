@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2656
+HEADER 1  - Drug Score                        : 0.2869
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9022
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6652
+HEADER 5  - Mean B-factor of pocket residues  : 0.9611
+HEADER 6  - Hydrophobicity Score              : 29.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.3504
+HEADER 10 - Pocket volume (convex hull)       : 5.6134
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7368
+ATOM    288  CD1 ILE A 142     -12.297   3.494  -0.054  0.00  0.00           C 0
+ATOM    313   CB ALA A 146     -13.833  -0.191  -1.237  0.00  0.00           C 0
+ATOM    248   CB SER A 137     -15.469   5.943   0.113  0.00  0.00           C 0
+ATOM    314    O ALA A 146     -12.121   0.935  -3.808  0.00  0.00           O 0
+ATOM    222    O ALA A 133     -12.402   6.811  -1.566  0.00  0.00           O 0
+ATOM    350  CD1 TRP A 150     -13.127   5.893  -5.975  0.00  0.00           C 0
+ATOM    245    N SER A 137     -15.349   7.908  -1.354  0.00  0.00           N 0
+ATOM    246   CA SER A 137     -16.268   6.975  -0.689  0.00  0.00           C 0
+ATOM    244    O ALA A 136     -16.914   8.872  -2.648  0.61  3.21           O 0
+ATOM    242    C ALA A 136     -15.740   8.778  -2.292  0.00  0.00           C 0
+ATOM    311   CA ALA A 146     -12.948  -0.768  -2.346  0.00  0.00           C 0
+ATOM    341   CD LYS A 149     -15.912  -1.661  -7.358  0.00  0.00           C 0
+ATOM    338   CB LYS A 149     -13.426  -1.410  -6.679  0.00  0.00           C 0
+ATOM    340   CG LYS A 149     -14.545  -1.046  -7.664  0.00  0.00           C 0
+ATOM    347   CB TRP A 150     -11.908   3.695  -5.673  0.00  0.00           C 0
+ATOM    344    N TRP A 150     -11.954   1.444  -6.663  0.00  0.00           N 0
+ATOM    345   CA TRP A 150     -11.944   2.877  -6.967  0.00  0.00           C 0
+ATOM    380  OD2 ASP A 153     -15.522   1.203  -9.783  0.73  7.50           O 0
+TER
+END
